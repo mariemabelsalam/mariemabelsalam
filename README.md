@@ -5,8 +5,6 @@
 ### Hi there, I'm Mariem Mohamed Mahmoud 👋  
 #### 💻 Front-End Web Developer | Angular Enthusiast
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
-
 </div>
 
 ---
@@ -42,8 +40,5 @@
 ---
 
 <div align="center">
-
 ✨ Thank you for visiting my GitHub! ✨  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%" />
-
 </div>
